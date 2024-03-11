@@ -1,2 +1,2 @@
-# Atividade Avaliativa
- Atividade de Linguagem de Programação 1 em dupla.
+# Atividade CBTLPR1
+ Trabalho Prático 01 de Linguagem de Programação 1 em dupla.
