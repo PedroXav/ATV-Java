@@ -1,3 +1,18 @@
+/*Nome: Maria Eduarda Fodor CB3025063
+  Nome: Pedro Xavier Oliveira CB3027376
+ */
+
+/*3. Entrar via teclado com “N” valores quaisquer. O valor “N” (que representa a quantidade de
+números) será digitado, deverá ser positivo, porém menor que vinte. Caso a quantidade não
+satisfaça a restrição, enviar mensagem de erro e solicitar o valor novamente. Após a
+digitação dos “N” valores, exibir:
+a. O maior valor;
+b. O menor valor;
+c. A soma dos valores;
+d. A média aritmética dos valores;
+e. A porcentagem de valores que são positivos;
+f. A porcentagem de valores negativos; */
+
 import java.util.Scanner;
 
 public class TP02Ex03 {

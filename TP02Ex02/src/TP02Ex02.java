@@ -1,3 +1,12 @@
+/*Nome: Maria Eduarda Fodor CB3025063
+  Nome: Pedro Xavier Oliveira CB3027376
+ */
+
+/*2. Entrar via teclado com dez valores positivos. Consistir a digitação e enviar mensagem de
+erro, se necessário. Após a digitação, exibir:
+a. O maior valor;
+b. A soma dos valores;
+c. A média aritmética dos valores. */
 import java.util.Scanner;
 
 public class TP02Ex02 {

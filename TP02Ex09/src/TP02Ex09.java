@@ -1,3 +1,11 @@
+/*Nome: Maria Eduarda Fodor CB3025063
+  Nome: Pedro Xavier Oliveira CB3027376
+ */
+
+ /*9. Entrar com uma matriz de ordem MxN, onde a ordem também será escolhida pelo usuário,
+sendo que no máximo 10x10. A matriz não precisa ser quadrática. Após a digitação dos
+elementos, calcular e exibir a matriz transposta. */
+
 import java.util.Scanner;
 
 public class TP02Ex09 {
