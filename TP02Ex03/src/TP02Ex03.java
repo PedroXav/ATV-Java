@@ -25,7 +25,7 @@ public class TP02Ex03 {
             int quantidadeValores = ler.nextInt();
 
             if (quantidadeValores <= 0 || quantidadeValores >= 20) {
-                System.out.println("Quantidade inválida. Por favor, digite novamente.");
+                System.out.println("Quantidade invalida. Por favor, digite novamente.");
                 continue; // Volta ao início do loop para nova entrada
             }
 
