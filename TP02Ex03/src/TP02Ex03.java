@@ -2,7 +2,7 @@
   Nome: Pedro Xavier Oliveira CB3027376
  */
 
-/*3. Entrar via teclado com “N” valores quaisquer. O valor “N” (que representa a quantidade de
+/* 3. Entrar via teclado com “N” valores quaisquer. O valor “N” (que representa a quantidade de
 números) será digitado, deverá ser positivo, porém menor que vinte. Caso a quantidade não
 satisfaça a restrição, enviar mensagem de erro e solicitar o valor novamente. Após a
 digitação dos “N” valores, exibir:

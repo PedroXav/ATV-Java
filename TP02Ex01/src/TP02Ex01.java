@@ -2,7 +2,7 @@
   Nome: Pedro Xavier Oliveira CB3027376
  */
 
-/*1. Entrar com dois valores via teclado, onde o segundo valor deverá ser maior que o primeiro.
+/* 1. Entrar com dois valores via teclado, onde o segundo valor deverá ser maior que o primeiro.
 Caso contrário solicitar novamente apenas o segundo valor.*/
 
 import java.util.Scanner;
